@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-12T15:08:27 IST" name="Default suite" finished-at="2024-02-12T15:09:16 IST" duration-ms="48542">
+    <groups>
+    </groups>
+    <test started-at="2024-02-12T15:08:27 IST" name="Default test" finished-at="2024-02-12T15:09:16 IST" duration-ms="48542">
+      <class name="org.ZapBook.test.InventoryTestcase">
+        <test-method is-config="true" signature="generateExtentReport()[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316]" started-at="2024-02-12T15:08:27 IST" name="generateExtentReport" finished-at="2024-02-12T15:08:28 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateExtentReport -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316]" started-at="2024-02-12T15:08:28 IST" name="launchBrowser" finished-at="2024-02-12T15:08:43 IST" duration-ms="14896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="startFromLogin(java.lang.reflect.Method)[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316]" started-at="2024-02-12T15:08:43 IST" name="startFromLogin" finished-at="2024-02-12T15:08:44 IST" duration-ms="967" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.ZapBook.test.InventoryTestcase.inventory_002() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startFromLogin -->
+        <test-method signature="inventory_002()[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316]" started-at="2024-02-12T15:08:44 IST" name="inventory_002" finished-at="2024-02-12T15:09:15 IST" duration-ms="31574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventory_002 -->
+        <test-method is-config="true" signature="logout(org.testng.ITestResult)[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316]" started-at="2024-02-12T15:09:15 IST" name="logout" finished-at="2024-02-12T15:09:16 IST" duration-ms="460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=inventory_002 status=SUCCESS method=InventoryTestcase.inventory_002()[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316]" started-at="2024-02-12T15:09:16 IST" name="closeTheBrowser" finished-at="2024-02-12T15:09:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method is-config="true" signature="flushed()[pri:0, instance:org.ZapBook.test.InventoryTestcase@173ed316]" started-at="2024-02-12T15:09:16 IST" name="flushed" finished-at="2024-02-12T15:09:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushed -->
+      </class> <!-- org.ZapBook.test.InventoryTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
