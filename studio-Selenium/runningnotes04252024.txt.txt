@@ -1,0 +1,5 @@
+- Today i have done my selenium testing
+
+- Today i have learn basic commands for Git
+
+- Today I created a public github repository 
